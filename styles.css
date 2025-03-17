@@ -1,0 +1,135 @@
+body{
+
+
+background-color: rgb(17, 176, 255);
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+
+.title{
+
+    
+display:flex;
+justify-content: center;
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+
+}
+
+.row1{
+background-color: blueviolet;
+display:flex;
+justify-content: space-between;
+border-style: outset;
+margin-left: 20px;
+margin-right: 20px;
+gap: 10px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+padding: 15px;
+text-align: center;
+
+;
+}
+
+h2{
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    text-align: center;
+    
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    text-align: center;
+    color:aliceblue
+}
+
+.design{
+
+    display:flex;
+justify-content: center;
+background-color: blueviolet;
+margin-left: 500px;
+margin-right: 500px;
+color: aliceblue;
+margin-top: 100px;
+margin-bottom: 100px;
+font-size: large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border-style: outset;
+}
+
+.description{
+border-style: outset;
+background-color: blueviolet;
+margin-left: 500px;
+margin-right: 500px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+border-style: outset;
+
+
+
+}
+
+
+.skills{
+    display:flex;
+    justify-content: center;
+    background-color: blueviolet;
+    margin-left: 500px;
+    margin-right: 500px;
+    color: aliceblue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: outset;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.row2{
+
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    border-style: outset;
+    background-color: blueviolet;
+    margin-top: 50px;
+    gap: 80px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+
+.acheivement{
+
+    background-color: rgb(181, 111, 246);
+    margin-left: 700px;
+    margin-right: 700px;
+    color: aliceblue;
+    border-style: outset;
+}
+
